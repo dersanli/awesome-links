@@ -1,0 +1,1 @@
+Basic Next.JS application with Prisma and TailwindCSS
